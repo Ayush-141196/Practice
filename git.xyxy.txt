@@ -1,1 +1,61 @@
 this is it.....
+2 git status
+   3 git add .\list.py
+   4 git status
+   5 git commit -m "new new"
+   6 git remote -v
+   7 git remote set-url origin
+   8 git push origin master
+   9 git status
+  10 git status
+  11 ls
+  12 pwd
+  13 ls
+  14 top
+  15 pwd
+  16 ls
+  17 ls pwd
+  18 pwd ls
+  19 ls
+  20 pwd
+  21 pwd
+  22 git clone git-github.py
+  23 ls
+  24 pwd
+  25 ls -l
+  26 ls
+  27 ls
+  28 top
+  29 clear
+  30 history
+  31 ls
+  32 top
+  33 clear
+  34 clean
+  35 top
+  36 clean
+  37 ls
+  38 pwd
+  39 ls
+  40 pwd
+  41 top
+  42 clear
+  43 xy
+  44 ls
+  45 pwd
+  46 ls
+  47 txt
+  48 ls
+  49 pwd
+  50 pw
+  51 pwd
+  52 cd
+  53 pwd
+  54 history
+  55 ls
+  56 pwd
+  57 ls
+  58 pwd
+  59 ls
+  60 pwd
+  61 ls
