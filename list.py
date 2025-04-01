@@ -7,3 +7,4 @@ print = ("this is it")
 
 print = ("risk or regret")
 
+print = ("now or never")
