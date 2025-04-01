@@ -59,3 +59,20 @@ this is it.....
   59 ls
   60 pwd
   61 ls
+  history
+  63 clear
+  64 git add .\git.xyxy.txt
+  65 git status
+  66 git status .
+  67 git commit -m "added updates" .
+  68 git status
+  69 git push origin master
+  70 git add .\list.py
+  71 git status
+  72 git commit -m "updated file"
+  73 git remote -v
+  74 git remote  -v
+  75 git remote push origin
+  76 git remote origin master
+  77 git push origin master
+
