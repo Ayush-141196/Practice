@@ -10,3 +10,5 @@ print = ("risk or regret")
 print = ("now or never")
 
 PRINT = ("CONSISTENCY")
+
+print = ("ayush pratap singh")
