@@ -1,0 +1,1 @@
+print = ("this is an alphawizz training of devops intern")
