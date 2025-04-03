@@ -13,7 +13,4 @@ PRINT = ("CONSISTENCY")
 
 print = ("ayush pratap singh")
 
-print = ("ayush singh")
-
-
 print = ("xyz")
