@@ -1,0 +1,1 @@
+print = ("this is ayush, and we are having a party")
