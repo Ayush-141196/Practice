@@ -1,0 +1,1 @@
+this is a staged branch file ,it cannot shown on other branch if we switched out to other branch.
