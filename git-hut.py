@@ -1,1 +1,0 @@
-print =("hard work & hustle")
