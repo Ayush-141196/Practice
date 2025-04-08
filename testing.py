@@ -1,1 +1,1 @@
-print = ("this is for the merging branch purpose"ge 
+print = ("this is for the merging branch purpose")
